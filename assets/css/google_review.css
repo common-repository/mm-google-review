@@ -1,0 +1,11 @@
+.review_item{
+	text-align: center;
+}
+.item_author img{
+	max-width: 50px;
+	margin: 0 auto;
+}
+.checked {
+	color: orange;
+}
+
